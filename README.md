@@ -48,8 +48,12 @@ AzureML環境介紹 [Video](https://www.facebook.com/chiehningchen/videos/101542
 ### Code/示範
 [link](https://github.com/rladiestaipei/Azureml-shiny-app/tree/master/python)
 ### 教學文件
-[Slides](https://docs.google.com/presentation/d/17VgbMwYibq5E3zQSulG8eq5Z3_0uFuCsMdRrlyZNRo8/)
+[Slides - Tips](https://docs.google.com/presentation/d/17VgbMwYibq5E3zQSulG8eq5Z3_0uFuCsMdRrlyZNRo8/)
+[Slides - with python code](https://docs.google.com/presentation/d/1ny_dCwszjw5kwoeIcgzBJVSlZNw_DmNMAYx92HxxtAI/)
 ### 補充教材
 參考資料1.Training and operationalization of Scikit-Learn models
 https://gallery.cortanaintelligence.com/Experiment/Training-and-operationalization-of-Scikit-Learn-models-1
 
+
+## FAQ
+[link](https://onedrive.live.com/?cid=cf211efc6ea69b1a&id=CF211EFC6EA69B1A%21131&authkey=%21AGt6Ehbd7FREV2Y)
